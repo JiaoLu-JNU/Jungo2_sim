@@ -1,0 +1,8 @@
+prefix=/home/jiaolu/user/jungo2_sim/install
+
+Name: jungo2_core
+Description: Description of jungo2_core
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/jiaolu/user/jungo2_sim/install/lib 
+Requires: 

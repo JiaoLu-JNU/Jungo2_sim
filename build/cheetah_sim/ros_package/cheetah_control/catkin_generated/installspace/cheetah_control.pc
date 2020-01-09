@@ -1,0 +1,8 @@
+prefix=/home/jiaolu/user/jungo2_sim/install
+
+Name: cheetah_control
+Description: Description of cheetah_control
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/jiaolu/user/jungo2_sim/install/lib 
+Requires: 

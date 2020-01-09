@@ -1,0 +1,2 @@
+cheetah_sim/ros_package/cheetah_control:cheetah_sim/ros_package/cheetah_core:cheetah_sim/ros_package/cheetah_description:cheetah_sim/ros_package/cheetah_gazebo:cheetah_sim/ros_package/jungo2_core
+-DCATKIN_DEVEL_PREFIX=/home/jiaolu/user/jungo2_sim/devel -DCMAKE_INSTALL_PREFIX=/home/jiaolu/user/jungo2_sim/install -G Unix Makefiles
